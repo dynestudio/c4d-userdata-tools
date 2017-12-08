@@ -4,7 +4,7 @@ by dyne
 Writen by: Carlos Dordelly   
 Special thanks: Francisco "Pancho" Contreras, Terry Williams & Roberto Gonzalez.   
 
-Visit the [wiki site](https://bitbucket.org/dynestudio/c4d-export-to-render-farm/wiki/Home) to see a full description of this tool.   
+Visit the [wiki site](https://bitbucket.org/dynestudio/c4d-user-data-tools/wiki/Home) to see a full description of this tool.   
 
 Please email info@dynetv.com with any questions, bug reports or feature requests. If you are not in the mailing list write us with your info to know how to add you and be notified of new releases.
 Your info can be your name, where are you from, your Behance or something where we can view what you do and know each other 🍻.   
